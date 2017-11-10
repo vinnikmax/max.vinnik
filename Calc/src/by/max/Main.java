@@ -9,7 +9,7 @@ public class Main {
 		Engine e = new Engine("Калькулятор");
 		e.setVisible(true);
 		e.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE );
-		e.setSize(400, 400);
+		e.setSize(500, 500);
 		e.setResizable(true);
 		e.setLocation(300, 150);
 	}
