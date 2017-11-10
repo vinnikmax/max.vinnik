@@ -11,7 +11,7 @@ public class Main {
 		e.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE );
 		e.setSize(500, 500);
 		e.setResizable(true);
-		e.setLocation(300, 150);
+		e.setLocation(500, 150);
 	}
 
 }
